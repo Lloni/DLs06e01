@@ -1,8 +1,108 @@
+#Requerimientos
+
+##Contenidos requeridos:
+
+  -	Pequeña reseña sobre su historia
+  -	Destacar procedencia de los productos
+  -	Mostrar a quienes trabajan cosechando las verduras
+  -	Mostrar la pasión que sienten por sus tomates
+  -	Debe aparecer el logo de la empresa
+
+* Los contenidos serán creados por la persona a cargo de sus redes sociales
+
+
+##Req. Técnicos:
+
+  -	La página debe ser responsiva
+  -	Dar énfasis a la compra de productos
+  -	Debe incluir enlaces a RRSS
+
+##Colores:
+
+  -	#E56353 Jelly Bean
+  -	#686963 Granite Gray
+  -	#707070 Nickel
+  -	#FAFAFA Snow
+  -	#FFFFFF White
+
+
+##Tipografías:
+
+  -	OpenSans-Regular
+  -	Raleway-Bold
+  -	Raleway-ExtraLight
+  - Font Awesome
+
+
+#Sitio web
+
+##Secciones:
+
+  -	Nav
+    o	Logo
+    o	Enlaces sitio
+      	Acerca de (anchor)
+      	Productos (anchor)
+      	Blog (página)
+      	Contacto (página)
+
+  -	header (encabezado sin fotos)
+
+  -	acerca-de
+    o	Sobre los tomates
+    o	Procedencia
+
+  -	nosotros (banner {encabezado sin fotos})
+    o	Perfil Javiera Kuntsmann
+    o	Perfil Roberto Pacheco
+
+  -	cta (encabezado + botón)
+
+  -	footer
+    o	Logo
+    o	Enlaces RRSS
+    o	Enlaces sitio
+
+###Nav
+
+En color claro, incluirá el logo de la empresa y enlaces a las secciones de la web, colapsables en ícono de hamburguesa. No se especifica si debe ser fixed.
+
+###Header
+
+Encabezado de la página, sin foto, en fondo de color tomatesco y encabezado que llame a conocer el producto.
+
+###Acerca-de
+
+Sección en dos columnas. Los contenidos deben destacar el producto y su procedencia, con especial énfasis en el origen de los tomates y la pasión que la empresa siente por su producto.
+
+###Nosotros
+
+
+
+
+
+#Estructura del sitio
+
+root
+|__assets
+|   |-->css
+|   |-->js
+|   |-->fonts
+|   |-->bootstrap
+|   |-->img
+|--readme.md
+|--index.html
+
+#Wireframe
+
+(img/wireframe.jpg)
+
+
 # Maquetación - Front End B-learning
 
 ## Pre-maquetado de página Tía Tomate
 
-### Instrucciones: 
+### Instrucciones:
 
 Aplicando todo los conceptos y herramientas aprendidas en la experiencia online de maquetación, planifica la construcción de la página web de "Tía Tomate".
 
@@ -23,7 +123,7 @@ Según sus requerimientos la página debe:
 
 El diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (puedes encontrar los assets en el siguiente [link](../assets)).
 
-Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales. 
+Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales.
 
 ### Requsitos generales:
 
@@ -45,7 +145,7 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.m
 - Una descripción de las secciones, layout, estructura HTML y clases CSS que decidiste usar.
 
 Además debes agregar la estructura de directorio que hiciste, junto con las dependencias y otros archivos necesarios usados en el proyecto.
-  
+
 ### Criterios de evaluación:
 
 - Organización de los requerimientos
