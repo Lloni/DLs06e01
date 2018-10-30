@@ -1,4 +1,4 @@
-#Requerimientos
+# Requerimientos
 
 ## Contenidos requeridos:
 
@@ -11,13 +11,13 @@
 * Los contenidos serán creados por la persona a cargo de sus redes sociales
 
 
-##Req. Técnicos:
+## Req. Técnicos:
 
   -	La página debe ser responsiva
   -	Dar énfasis a la compra de productos
   -	Debe incluir enlaces a RRSS
 
-##Colores:
+## Colores:
 
   -	#E56353 Jelly Bean
   -	#686963 Granite Gray
@@ -26,7 +26,7 @@
   -	#FFFFFF White
 
 
-##Tipografías:
+## Tipografías:
 
   -	OpenSans-Regular
   -	Raleway-Bold
@@ -34,54 +34,54 @@
   - Font Awesome
 
 
-#Sitio web
+# Sitio web
 
-##Secciones:
+## Secciones:
 
   -	Nav
-    o	Logo
-    o	Enlaces sitio
-      	Acerca de (anchor)
-      	Productos (anchor)
-      	Blog (página)
-      	Contacto (página)
+    -	Logo
+    -	Enlaces sitio
+      -	Acerca de (anchor)
+      -	Productos (anchor)
+      -	Blog (página)
+      -	Contacto (página)
 
   -	header (encabezado sin fotos)
 
   -	acerca-de
-    o	Sobre los tomates
-    o	Procedencia
+    -	Sobre los tomates
+    -	Procedencia
 
   -	nosotros (banner {encabezado sin fotos})
-    o	Perfil Javiera Kuntsmann
-    o	Perfil Roberto Pacheco
+    -	Perfil Javiera Kuntsmann
+    -	Perfil Roberto Pacheco
 
   -	cta (encabezado + botón)
 
   -	footer
-    o	Logo
-    o	Enlaces RRSS
-    o	Enlaces sitio
+    -	Logo
+    -	Enlaces RRSS
+    -	Enlaces sitio
 
-###Nav
+### Nav
 
 En color claro, incluirá el logo de la empresa y enlaces a las secciones de la web, colapsables en ícono de hamburguesa. No se especifica si debe ser fixed.
 
-###Header
+### Header
 
 Encabezado de la página, sin foto, en fondo de color tomatesco y encabezado que llame a conocer el producto.
 
-###Acerca-de
+### Acerca-de
 
 Sección en dos columnas. Los contenidos deben destacar el producto y su procedencia, con especial énfasis en el origen de los tomates y la pasión que la empresa siente por su producto.
 
-###Nosotros
+### Nosotros
 
 
 
 
 
-#Estructura del sitio
+# Estructura del sitio
 
 root
 |__assets
@@ -95,7 +95,7 @@ root
 
 # Wireframe
 
-(img/wireframe.jpg)
+!(img/wireframe.jpg)
 
 
 # Maquetación - Front End B-learning
