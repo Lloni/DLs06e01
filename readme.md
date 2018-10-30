@@ -95,7 +95,7 @@ root
 
 # Wireframe
 
-!(img/wireframe.jpg)
+![wireframe](img/wireframe.jpg)
 
 
 # Maquetación - Front End B-learning
