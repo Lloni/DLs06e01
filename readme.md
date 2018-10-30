@@ -1,6 +1,6 @@
 #Requerimientos
 
-##Contenidos requeridos:
+## Contenidos requeridos:
 
   -	Pequeña reseña sobre su historia
   -	Destacar procedencia de los productos
@@ -93,7 +93,7 @@ root
 |--readme.md
 |--index.html
 
-#Wireframe
+# Wireframe
 
 (img/wireframe.jpg)
 
